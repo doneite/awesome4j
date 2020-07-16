@@ -150,11 +150,11 @@ public class ArrayListExample {
 	}
 
 	public static void main(String[] args) throws Exception {
-		//expandCapacity();
+		expandCapacity();
 		//trimToSize();
 		//listTraverse();
 		//listAddAndRemove();
-		toArray();
+		//toArray();
 	}
 	
 }
